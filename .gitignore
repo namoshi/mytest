@@ -1,3 +1,4 @@
 # ignore Data Directory
 MNIST/
 .ipynb_checkpoints/
+.vscode/

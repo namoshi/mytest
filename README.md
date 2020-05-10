@@ -1,7 +1,11 @@
 # mytest
 
-Simple example of linear regression in python
+- linreg.ipynb
+    Simple example of linear regression in python
 
-```math
-f(x) = \int_{-\infty}^{\infty} \sin x dx
-```
+- tf_logistrc_regression.ipynb
+    Logistic Regression using Tensorflow
+
+- tf_iris_logreg.ipynb
+    Logistic Regression of Iris Data
+    
