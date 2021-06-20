@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/kurita/anaconda3/bin/python"
+    "python.pythonPath": "python",
+    "jupyter.jupyterServerType": "remote"
 }
