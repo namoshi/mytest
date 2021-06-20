@@ -1,4 +1,4 @@
 {
     "python.pythonPath": "python",
-    "jupyter.jupyterServerType": "remote"
+    "jupyter.jupyterServerType": "local"
 }
